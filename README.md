@@ -32,6 +32,6 @@
 ---
 
 * **ลิงก์วิดีโอ (YouTube):** `https://youtu.be/nmRjaIC4cxQ?si=aRs54xiUvKq5w9MM`
-* **ลิงก์ Repo (GitHub):** `https://github.com/<username>/comp281-assignment1-6712231042`
+* **ลิงก์ Repo (GitHub):** `https://github.com/ketsara19/comp281assignment1-6712231042.git`
 
 ---
